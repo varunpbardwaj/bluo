@@ -25,3 +25,5 @@ A oh-my-zsh theme for z shell
     Press Ctrl+X, type y/Y and press return.
 
     Now restart your terminal.
+    
+![bluo](./bluo.gif?raw=true)
