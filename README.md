@@ -26,4 +26,6 @@ A oh-my-zsh theme for z shell
 
     Now restart your terminal.
     
-![bluo](./bluo.gif?raw=true)
+    <br />
+    
+    ![bluo](./bluo.gif?raw=true)
