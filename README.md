@@ -28,4 +28,4 @@ A oh-my-zsh theme for z shell
     
     <br />
     
-    ![bluo](./bluo.gif?raw=true)
+![bluo](./bluo.gif?raw=true)
